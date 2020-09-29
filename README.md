@@ -87,6 +87,6 @@ now we have to set change some settings, and we have to create a user to access 
 
 ![alt text](
 ![alt text](
-![alt text](
+![alt text](https://github.com/abiswah/GCP_Task/blob/master/IMG-20200929-WA0006.jpg)
 ![alt text](https://github.com/abiswah/GCP_Task/blob/master/IMG-20200929-WA0005.jpg)
 ![alt text](https://github.com/abiswah/GCP_Task/blob/master/IMG-20200929-WA0004.jpg)
