@@ -63,7 +63,7 @@ To create K8s cluster, gcp provides a service called Google Kubernetes Engine, w
 
  to create the deployment we have to use command -:
 
-kubectl create deployment wordpressos --image=wordpress 
+     kubectl create deployment wordpressos --image=wordpress 
 
 we can also check that our pods & deployments are successfully launched or not with the help of command
 
