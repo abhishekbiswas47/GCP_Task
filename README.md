@@ -42,7 +42,7 @@ Create one project for the developer from in which developer can work.Create one
 Projects can be created in two ways, i.e using GUI(graphical user interface) and CLI (command line interface).
 
 
-##### Step 2: Creating a VPC network for the projects.-:
+##### Step 2: Creating a VPC network for the projects.-:
 
 We'll create two VPC's, One for kubernetes cluster and other for database. go to GCP console and then click on VPC Network then Click on Create VPC Network and Create two VPCs in different regions by clicking on create button.
 
