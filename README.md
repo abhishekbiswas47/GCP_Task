@@ -85,6 +85,8 @@ now we have to set change some settings, and we have to create a user to access 
 
  launch the wordpress by copying the External IP address provided by the load balancer and paste it on our browser. We've to give the database credentials which we set at the time of launching MySql instance, then our wordpress have been successfully launched using gcp cloud.
 
+Here are few screenshots of the task:-
+
 ![alt text](https://github.com/abiswah/GCP_Task/blob/master/IMG-20200929-WA0008.jpg)
 ![alt text](https://github.com/abiswah/GCP_Task/blob/master/IMG-20200929-WA0007.jpg)
 ![alt text](https://github.com/abiswah/GCP_Task/blob/master/IMG-20200929-WA0006.jpg)
